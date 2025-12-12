@@ -1,5 +1,5 @@
 ## All proprietary files from this list, unless pinned and noted otherwise, are
-## from OnePlus 9R (LE2101_13.1.0.583(EX01))
+## from OnePlus 9R (LE2101_14.0.0.2301(EX01))
 
 # ACDB
 odm/etc/acdbdata/Audio_Parameter_Version.txt
@@ -105,10 +105,6 @@ odm/etc/irissoft.fw
 # Keymaster
 vendor/bin/hw/android.hardware.keymaster@4.1-service-qti
 vendor/etc/init/android.hardware.keymaster@4.1-service-qti.rc
-vendor/lib64/libkeymasterdeviceutils.so
-vendor/lib64/libkeymasterprovision.so
-vendor/lib64/libkeymasterutils.so
-vendor/lib64/libqtikeymaster4.so
 
 # Sensors
 odm/etc/sensor/config/kona_bu52053nvx_0.json
